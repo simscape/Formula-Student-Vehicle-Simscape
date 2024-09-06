@@ -13,6 +13,8 @@ The templates are designed to be extendable. Create your own variant for any por
 of the vehicle model (such as the brakes, suspension, or drivetrain) and you can 
 adjust the libraries so that variant can be selected.
 
+View on File Exchange:  [![View Formula Student Vehicle with Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/172279-formula-student-vehicle-with-simscape)  
+
 **Please visit the [Simscape Vehicle Templates](https://www.mathworks.com/solutions/physical-modeling/simscape-vehicle-templates.html) page** for animations and videos that show what you can do with these models.
 
 ![](Scripts_Data/Overview/Simscape_Vehicle_Templates_FSAE_animation.png)
